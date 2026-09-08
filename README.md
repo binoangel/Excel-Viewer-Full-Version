@@ -237,3 +237,6 @@ This repository serves as the official landing page for Excel Viewer. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Excel Viewer today!**
+
+---
+**Last updated:** 2026-09-08 13:13:33 UTC
