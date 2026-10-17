@@ -239,4 +239,4 @@ This repository serves as the official landing page for Excel Viewer. The softwa
 **Get the most recent version of Excel Viewer today!**
 
 ---
-**Last updated:** 2026-10-16 22:24:18 UTC
+**Last updated:** 2026-10-17 00:57:48 UTC
